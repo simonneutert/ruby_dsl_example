@@ -1,3 +1,5 @@
+check out [instance_eval](https://apidock.com/ruby/Object/instance_eval), because this is where the magic happens
+
 ``` ruby
 # to not pollute the global namespace, wrap your DSL in a class
 module DslWrapper
